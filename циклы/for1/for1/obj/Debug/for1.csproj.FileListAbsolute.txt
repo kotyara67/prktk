@@ -1,0 +1,7 @@
+C:\Users\kotyara\source\repos\prktk\циклы\for1\for1\bin\Debug\for1.exe.config
+C:\Users\kotyara\source\repos\prktk\циклы\for1\for1\bin\Debug\for1.exe
+C:\Users\kotyara\source\repos\prktk\циклы\for1\for1\bin\Debug\for1.pdb
+C:\Users\kotyara\source\repos\prktk\циклы\for1\for1\obj\Debug\for1.csproj.AssemblyReference.cache
+C:\Users\kotyara\source\repos\prktk\циклы\for1\for1\obj\Debug\for1.csproj.CoreCompileInputs.cache
+C:\Users\kotyara\source\repos\prktk\циклы\for1\for1\obj\Debug\for1.exe
+C:\Users\kotyara\source\repos\prktk\циклы\for1\for1\obj\Debug\for1.pdb

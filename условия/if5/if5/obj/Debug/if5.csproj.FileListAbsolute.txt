@@ -1,0 +1,7 @@
+C:\Users\kotyara\source\repos\prktk\if5\if5\bin\Debug\if5.exe.config
+C:\Users\kotyara\source\repos\prktk\if5\if5\bin\Debug\if5.exe
+C:\Users\kotyara\source\repos\prktk\if5\if5\bin\Debug\if5.pdb
+C:\Users\kotyara\source\repos\prktk\if5\if5\obj\Debug\if5.csproj.AssemblyReference.cache
+C:\Users\kotyara\source\repos\prktk\if5\if5\obj\Debug\if5.csproj.CoreCompileInputs.cache
+C:\Users\kotyara\source\repos\prktk\if5\if5\obj\Debug\if5.exe
+C:\Users\kotyara\source\repos\prktk\if5\if5\obj\Debug\if5.pdb

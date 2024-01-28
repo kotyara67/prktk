@@ -1,0 +1,7 @@
+C:\Users\kotyara\source\repos\prktk\массивы\arr2\arr2\bin\Debug\arr2.exe.config
+C:\Users\kotyara\source\repos\prktk\массивы\arr2\arr2\bin\Debug\arr2.exe
+C:\Users\kotyara\source\repos\prktk\массивы\arr2\arr2\bin\Debug\arr2.pdb
+C:\Users\kotyara\source\repos\prktk\массивы\arr2\arr2\obj\Debug\arr2.csproj.AssemblyReference.cache
+C:\Users\kotyara\source\repos\prktk\массивы\arr2\arr2\obj\Debug\arr2.csproj.CoreCompileInputs.cache
+C:\Users\kotyara\source\repos\prktk\массивы\arr2\arr2\obj\Debug\arr2.exe
+C:\Users\kotyara\source\repos\prktk\массивы\arr2\arr2\obj\Debug\arr2.pdb

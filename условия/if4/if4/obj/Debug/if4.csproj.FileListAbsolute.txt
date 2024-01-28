@@ -1,0 +1,7 @@
+C:\Users\kotyara\source\repos\prktk\if4\if4\bin\Debug\if4.exe.config
+C:\Users\kotyara\source\repos\prktk\if4\if4\bin\Debug\if4.exe
+C:\Users\kotyara\source\repos\prktk\if4\if4\bin\Debug\if4.pdb
+C:\Users\kotyara\source\repos\prktk\if4\if4\obj\Debug\if4.csproj.AssemblyReference.cache
+C:\Users\kotyara\source\repos\prktk\if4\if4\obj\Debug\if4.csproj.CoreCompileInputs.cache
+C:\Users\kotyara\source\repos\prktk\if4\if4\obj\Debug\if4.exe
+C:\Users\kotyara\source\repos\prktk\if4\if4\obj\Debug\if4.pdb

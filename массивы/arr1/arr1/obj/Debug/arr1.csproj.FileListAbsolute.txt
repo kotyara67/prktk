@@ -1,0 +1,7 @@
+C:\Users\kotyara\source\repos\prktk\циклы\arr1\arr1\bin\Debug\arr1.exe.config
+C:\Users\kotyara\source\repos\prktk\циклы\arr1\arr1\bin\Debug\arr1.exe
+C:\Users\kotyara\source\repos\prktk\циклы\arr1\arr1\bin\Debug\arr1.pdb
+C:\Users\kotyara\source\repos\prktk\циклы\arr1\arr1\obj\Debug\arr1.csproj.AssemblyReference.cache
+C:\Users\kotyara\source\repos\prktk\циклы\arr1\arr1\obj\Debug\arr1.csproj.CoreCompileInputs.cache
+C:\Users\kotyara\source\repos\prktk\циклы\arr1\arr1\obj\Debug\arr1.exe
+C:\Users\kotyara\source\repos\prktk\циклы\arr1\arr1\obj\Debug\arr1.pdb
